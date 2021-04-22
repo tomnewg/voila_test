@@ -1,3 +1,9 @@
 voila
 voila-material
 bqplot
+IPython
+pandas as pd
+datetime
+gmaps
+geopy
+ipywidgets
