@@ -2,7 +2,7 @@ voila
 voila-material
 bqplot
 IPython
-pandas as pd
+pandas
 datetime
 gmaps
 geopy
