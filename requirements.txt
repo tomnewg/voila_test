@@ -7,3 +7,5 @@ datetime
 gmaps
 geopy
 ipywidgets
+git+https://github.com/manahl/arctic.git
+dnspython
